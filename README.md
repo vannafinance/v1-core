@@ -28,8 +28,8 @@ Vanna Finance is a decentralized proprietary trading protocol designed to bring 
 
 ## Protocol Integrations
 Vanna Finance is currently **beta live** on:
-- **Arbitrum** and **Base** chains
-- Integrated with protocols like **MUX** and **AvantisFi**
+- **Arbitrum**, **Base** and **Optimism** chains
+- Integrated with protocols like **MUX**, **AvantisFi** and **Perp** 
 
 ## How It Works
 1. **Lenders** provide liquidity and earn passive returns without taking on active trading risks.
@@ -44,7 +44,7 @@ Vanna Finance is currently **beta live** on:
 
 ## Get Started
 - Visit our platform at [Vanna Finance](https://vanna.finance)
-- know more at [user docs](https://docs.vanna.finance/docs) 
+- know more at [User Docs](https://docs.vanna.finance/docs) 
 - Join our community on [Discord](https://discord.gg/w9ebrNrv)
 - Follow us on [Twitter](https://x.com/vannafinance)
 
