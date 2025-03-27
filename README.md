@@ -17,7 +17,7 @@ Vanna Finance is a decentralized proprietary trading protocol designed to bring 
 - By grouping them together, we can leverage the strengths of both parties.
 - Additionally, we will provide a trader-friendly position monitoring dashboard to leverage takers to enhance their trading efficiency and decision-making.
 - Every action of the trader or liquidity borrower goes through Vanna Finance's predefined rules to maintain protocol solvency.
-- to know more about vanna see the [user docs](https://docs.vanna.finance/docs) 
+
 
 
 ## Key Features
@@ -44,6 +44,7 @@ Vanna Finance is currently **beta live** on:
 
 ## Get Started
 - Visit our platform at [Vanna Finance](https://vanna.finance)
+- know more at [user docs](https://docs.vanna.finance/docs) 
 - Join our community on [Discord](https://discord.gg/w9ebrNrv)
 - Follow us on [Twitter](https://x.com/vannafinance)
 
