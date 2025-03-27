@@ -1,4 +1,5 @@
-<img width="599" alt="image" src="https://github.com/user-attachments/assets/e5dd8e71-5a40-4bed-a16a-2b4ba1b9a49f" />
+<img width="1214" alt="image" src="https://github.com/user-attachments/assets/980291f5-f244-4ee8-820a-c95e27399d97" />
+
 
 
 # Vanna Finance
