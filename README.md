@@ -45,7 +45,7 @@ Vanna Finance is currently **beta live** on:
 ## Get Started
 - Visit our platform at [Vanna Finance](https://vanna.finance)
 - Join our community on [Discord](https://discord.gg/w9ebrNrv)
-- Follow us on [Twitter]([https://twitter.com/vanna_finance](https://x.com/vannafinance))
+- Follow us on [Twitter](https://x.com/vannafinance)
 
 ---
 *Vanna Finance is leading the future of DeFi derivatives with composable leverage and a seamless trading experience.*
